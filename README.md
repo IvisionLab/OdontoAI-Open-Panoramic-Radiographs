@@ -33,12 +33,24 @@ If you use this data set, our paper (**[OdontoAI Open Panoramic Radiographs](htt
 B. Silva, L. Pinheiro, B. Sobrinho, F. Lima, B. Sobrinho, K. Abdalla, M. Pithon, P. Cury, and L. Oliveira, “OdontoAI: A human-in-the-loop labeled data set and an online platform to boost research on dental panoramic radiographs,” in arXiv, 2022.
 
 ```
-@article{silva2022odontoai,
+<!---@article{silva2022odontoai,
   title={OdontoAI: A human-in-the-loop labeled data set and an online platform to boost research on dental panoramic radiographs},
   author={Silva, Bernardo and Pinheiro, La{\'\i}s and Sobrinho, Brenda and Lima, Fernanda and Sobrinho, Bruna and Abdalla, Kalyf and Pithon, Matheus and Cury, Patr{\'\i}cia and Oliveira, Luciano},
   journal={arXiv preprint arXiv:2203.15856},
   year={2022}
-}
+} --->
+
+@article{doi:10.1080/21681163.2022.2157747,
+author = {Bernardo Peters Menezes Silva and Laís Bastos Pinheiro and Brenda Pereira Pinheiro Sobrinho and Fernanda Pereira Lima and Bruna Pereira Pinheiro Sobrinho and Kalyf Abdalla Buzar Lima and Matheus Melo Pithon and Patricia Ramos Cury and Luciano Rebouças de Oliveira},
+title = {Boosting research on dental panoramic radiographs: a challenging data set, baselines, and a task central online platform for benchmark},
+journal = {Computer Methods in Biomechanics and Biomedical Engineering: Imaging \& Visualization},
+volume = {0},
+number = {0},
+pages = {1-21},
+year  = {2023},
+publisher = {Taylor & Francis},
+doi = {10.1080/21681163.2022.2157747}}
+
 ```
 
 ## Previous Works
@@ -97,6 +109,7 @@ Please, consider reading and citing:
 Follow the provided jupyter notebook demo.ipynb to get a quick sense of the data set.
 The conversions.py file defines useful functions to visualize the annotations.
 
+<!---- 
 ## Request the Data Set
 Copy the text below in a PDF file, fill out the fields in the text header, and sign it at the end. Please send an e-mail to lrebouca@ufba.br to receive a link to download the **OdontoAI Open Panoramic Radiographs** data set with the PDF in attachment. The e-mail must be sent from a professor's valid institutional account:
 
@@ -125,4 +138,4 @@ This data set will only be used for research purposes. I will not make any part 
 
 [your signature]"  
 
-**P.S. A link to the data set file will be sent as soon as possible.**
+**P.S. A link to the data set file will be sent as soon as possible.** --->
