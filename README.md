@@ -32,7 +32,6 @@ If you use this data set, our paper (**[OdontoAI Open Panoramic Radiographs](htt
 
 B. Silva, L. Pinheiro, B. Sobrinho, F. Lima, B. Sobrinho, K. Abdalla, M. Pithon, P. Cury, and L. Oliveira, “OdontoAI: A human-in-the-loop labeled data set and an online platform to boost research on dental panoramic radiographs,” in arXiv, 2022.
 
-```
 <!----
 @article{silva2022odontoai,
   title={OdontoAI: A human-in-the-loop labeled data set and an online platform to boost research on dental panoramic radiographs},
@@ -42,6 +41,7 @@ B. Silva, L. Pinheiro, B. Sobrinho, F. Lima, B. Sobrinho, K. Abdalla, M. Pithon,
 } 
 ---->
 
+```
 @article{doi:10.1080/21681163.2022.2157747,
 author = {Bernardo Peters Menezes Silva and Laís Bastos Pinheiro and Brenda Pereira Pinheiro Sobrinho and Fernanda Pereira Lima and Bruna Pereira Pinheiro Sobrinho and Kalyf Abdalla Buzar Lima and Matheus Melo Pithon and Patricia Ramos Cury and Luciano Rebouças de Oliveira},
 title = {Boosting research on dental panoramic radiographs: a challenging data set, baselines, and a task central online platform for benchmark},
